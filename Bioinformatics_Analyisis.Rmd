@@ -92,6 +92,3 @@ print(substr(comp_brazil, 1, 50))
 print(substr(comp_india, 1, 50))
 
 
-```
-
-
